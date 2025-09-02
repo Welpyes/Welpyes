@@ -1,16 +1,28 @@
-## Hi there 👋
+## About
 
-<!--
-**Welpyes/Welpyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Technician and Developer specializing in low-level and backend development. 27 years old, based on Arch Linux with bspwm.
 
-Here are some ideas to get you started:
+## Technical Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+Languages:  Go, C, C++, Python
+System:     Arch Linux + bspwm (X11)
+Areas:      Low-level programming, Backend development, System optimization
+```
+
+## Interests
+
+Engineering, Astrophysics, Technology, Anime, Gaming, Programming
+
+## Featured Repositories
+
+- **[Dotfiles](https://github.com/welpyes/dots)** - Arch Linux + bspwm configuration
+- **[txdm](https://github.com/welpyes/txdm)** - Termux display manager
+- **[txboot](https://github.com/welpyes/txboot)** - Termux Boot manager solution
+- **[Gear](https://github.com/welpyes/gear)** - Music Player
+
+## Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Welpyes&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Welpyes&layout=compact&theme=dark)
