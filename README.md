@@ -19,7 +19,7 @@ Engineering, Astrophysics, Technology, Anime, Gaming, Programming
 - **[Dotfiles](https://github.com/welpyes/dots)** - Arch Linux + bspwm configuration
 - **[txdm](https://github.com/welpyes/txdm)** - Termux display manager
 - **[txboot](https://github.com/welpyes/txboot)** - Termux Boot manager solution
-- **[Gear](https://github.com/welpyes/gear)** - Music Player
+- **[Glew](https://github.com/Welpyes/glew)** - Music Player
 
 ## Stats
 
