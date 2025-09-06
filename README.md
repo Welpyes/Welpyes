@@ -25,4 +25,4 @@ Engineering, Astrophysics, Technology, Anime, Gaming, Programming
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Welpyes&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Welpyes&layout=compact&theme=dark)
+![welpyes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=welpyes&theme=dark&show_icons=true&hide_border=false&layout=compact)
